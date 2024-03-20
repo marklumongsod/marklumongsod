@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://marklumongsod.github.io/portfolio/#header](https://marklumongsod.github.io/portfolio/#header)
 
-- 💬 Ask me about **vue, php, html, css, laravel, C++, JS, TS**
+- 💬 Ask me about **Vue, Php, Html, Css, Laravel, C++, JS, TS**
 
 - 📫 How to reach me **marklumongsod78@gmail.com**
-
-- 📄 Know about my experiences [https://marklumongsod.github.io/portfolio/#header](https://marklumongsod.github.io/portfolio/#header)
 
 - ⚡ Fun fact **I think I am funny**
 
