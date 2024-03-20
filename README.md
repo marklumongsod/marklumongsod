@@ -15,6 +15,25 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=marklumongsod&show_icons=true&locale=en&theme=tokyonight&count_private=true"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td>
+        <img
+          src="https://streak-stats.demolab.com/?user=marklumongsod&theme=tokyonight"
+          alt="GitHub Stats"
+        />
+      </td>
+    </tr>
+  </thead>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/lums" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lums" height="30" width="40" /></a>
