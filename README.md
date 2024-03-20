@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/@marklums" target="blank"><img src="https://img.shields.io/twitter/follow/@marklums?logo=twitter&style=for-the-badge" alt="@marklums" /></a> </p>
 
-<center><p>- 👨‍💻 All of my projects are available at [https://marklumongsod.github.io/portfolio/#header](https://marklumongsod.github.io/portfolio/#header)</p></center>
+- 👨‍💻 All of my projects are available at [https://marklumongsod.github.io/portfolio/#header](https://marklumongsod.github.io/portfolio/#header)
 
 - 💬 Ask me about **Vue, Php, Html, Css, Laravel, C++, JS, TS**
 
