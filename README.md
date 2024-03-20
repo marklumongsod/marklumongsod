@@ -6,7 +6,7 @@
 <center><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marklumongsod" alt="lumsy" /></a> </p></center>
 
 <p align="center"> <a href="https://twitter.com/@marklums" target="blank"><img src="https://img.shields.io/twitter/follow/@marklums?logo=twitter&style=for-the-badge" alt="@marklums" /></a> </p>
-
+<center>
 - 👨‍💻 All of my projects are available at [https://marklumongsod.github.io/portfolio/#header](https://marklumongsod.github.io/portfolio/#header)
 
 - 💬 Ask me about **Vue, Php, Html, Css, Laravel, C++, JS, TS**
@@ -14,7 +14,7 @@
 - 📫 How to reach me **marklumongsod78@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-
+</center>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
