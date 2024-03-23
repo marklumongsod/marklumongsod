@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Vue, Php, Html, Css, Laravel, C++, JS, TS**
 
-
 - 📫 How to reach me **marklumongsod78@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
