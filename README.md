@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **marklumongsod78@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
-
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
